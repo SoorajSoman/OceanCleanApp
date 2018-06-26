@@ -1,4 +1,5 @@
-package pojo;
+package constant;
+
 /**
  * Command Symbols and Direction constans
  **/
