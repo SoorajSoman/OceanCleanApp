@@ -1,7 +1,7 @@
 package constant;
 
 /**
- * Command Symbols and Direction constans
+ * Command Symbols and Direction constants
  **/
 public  class Constants {
     public static final char LEFT='L';
